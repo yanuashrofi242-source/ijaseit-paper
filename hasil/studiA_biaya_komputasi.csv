@@ -1,0 +1,6 @@
+model,params,gflops,latency_ms
+Rolling bias 30 days,1,2e-09,0.0021914566665752013
+Ridge (per target),17,3.2e-08,0.0010278800012504994
+BiGRU-attention (3 targets),4489,7.9616e-05,0.5088226866670691
+N-BEATS-lite (3 targets),54675,0.000107904,0.1377660766668972
+LightGBM residual (per target),3000,,0.3688900699989972

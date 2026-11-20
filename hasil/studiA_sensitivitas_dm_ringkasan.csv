@@ -1,0 +1,10 @@
+family,cells,better,mean_lag1_d,p_hln_raw_better_worse,p_hln_holm_better_worse,p_hac7_raw_better_worse,p_hac7_holm_better_worse,p_block14_raw_better_worse,p_block14_holm_better_worse
+Ridge vs rolling bias,18,13,0.32118541916035376,8/0,3/0,6/0,2/0,6/0,3/0
+Ridge vs raw NWP,18,18,0.3692670317658688,17/0,17/0,17/0,17/0,17/0,17/0
+Rolling bias vs raw NWP,18,18,0.3996835852286737,17/0,17/0,17/0,17/0,17/0,14/0
+Ridge vs persistence,18,18,0.2200860319580115,18/0,18/0,18/0,18/0,18/0,18/0
+LightGBM vs rolling bias,18,12,0.2957687727866803,2/0,1/0,2/0,1/0,1/0,1/0
+BiGRU vs Ridge,18,9,0.2538811196889662,0/3,0/2,0/3,0/2,0/3,0/2
+BiGRU vs rolling bias,18,15,0.38314316552285466,5/0,2/0,4/0,1/0,4/0,1/0
+N-BEATS-64 vs Ridge,18,0,0.21252997291761744,0/18,0/18,0/18,0/18,0/18,0/18
+N-BEATS-16 vs Ridge,18,6,0.2541306961064689,0/4,0/3,0/4,0/3,0/4,0/3

@@ -1,0 +1,57 @@
+Kalisat 10 selesai
+Kalisat 20 selesai
+Kalisat 30 selesai
+Kalisat 60 selesai
+Surabaya 10 selesai
+Surabaya 20 selesai
+Surabaya 30 selesai
+Surabaya 60 selesai
+        site  lead                        model    n    dF1  lo_row  hi_row  lo_block  hi_block  lo_year  hi_year  sig_row  sig_block  sig_year
+0    Kalisat    10                  Persistence  396  0.058   0.003   0.114     0.003     0.118   -0.006    0.115     True       True     False
+1    Kalisat    10  Pranata Mangsa (phase mode)  396 -0.016  -0.057   0.026    -0.060     0.023   -0.038    0.007    False      False     False
+2    Kalisat    10     Logistic (with calendar)  396  0.082   0.030   0.132     0.012     0.148   -0.018    0.168     True       True     False
+3    Kalisat    10     LightGBM (with calendar)  396  0.072   0.022   0.123     0.014     0.136   -0.011    0.149     True       True     False
+4    Kalisat    10      Logistic (weather only)  396  0.064   0.004   0.121    -0.006     0.125   -0.032    0.146     True      False     False
+5    Kalisat    10      LightGBM (weather only)  396  0.037  -0.021   0.095    -0.033     0.099   -0.050    0.113    False      False     False
+6    Kalisat    20                  Persistence  396  0.006  -0.054   0.065    -0.062     0.058   -0.079    0.076    False      False     False
+7    Kalisat    20  Pranata Mangsa (phase mode)  396 -0.016  -0.055   0.025    -0.064     0.027   -0.038    0.009    False      False     False
+8    Kalisat    20     Logistic (with calendar)  396  0.054   0.003   0.107    -0.002     0.108   -0.009    0.121     True      False     False
+9    Kalisat    20     LightGBM (with calendar)  396  0.037  -0.014   0.087    -0.028     0.097   -0.031    0.102    False      False     False
+10   Kalisat    20      Logistic (weather only)  396 -0.006  -0.067   0.055    -0.079     0.050   -0.106    0.084    False      False     False
+11   Kalisat    20      LightGBM (weather only)  396 -0.057  -0.117   0.005    -0.137     0.002   -0.148    0.023    False      False     False
+12   Kalisat    30                  Persistence  396 -0.032  -0.088   0.027    -0.102     0.031   -0.091    0.025    False      False     False
+13   Kalisat    30  Pranata Mangsa (phase mode)  396 -0.005  -0.043   0.035    -0.047     0.035   -0.025    0.017    False      False     False
+14   Kalisat    30     Logistic (with calendar)  396  0.054   0.003   0.104    -0.005     0.108   -0.002    0.110     True      False     False
+15   Kalisat    30     LightGBM (with calendar)  396  0.038  -0.011   0.092    -0.019     0.090   -0.014    0.092    False      False     False
+16   Kalisat    30      Logistic (weather only)  396 -0.015  -0.073   0.041    -0.094     0.043   -0.104    0.069    False      False     False
+17   Kalisat    30      LightGBM (weather only)  396 -0.043  -0.105   0.018    -0.121     0.020   -0.135    0.031    False      False     False
+18   Kalisat    60                  Persistence  396 -0.116  -0.179  -0.052    -0.185    -0.052   -0.183   -0.057    False      False     False
+19   Kalisat    60  Pranata Mangsa (phase mode)  396  0.001  -0.039   0.039    -0.041     0.040   -0.019    0.022    False      False     False
+20   Kalisat    60     Logistic (with calendar)  396  0.041  -0.006   0.088    -0.003     0.081   -0.006    0.091    False      False     False
+21   Kalisat    60     LightGBM (with calendar)  396  0.012  -0.038   0.059    -0.058     0.064   -0.066    0.085    False      False     False
+22   Kalisat    60      Logistic (weather only)  396 -0.074  -0.132  -0.020    -0.140    -0.015   -0.163   -0.000    False      False     False
+23   Kalisat    60      LightGBM (weather only)  396 -0.093  -0.155  -0.031    -0.174    -0.028   -0.185   -0.004    False      False     False
+24  Surabaya    10                  Persistence  396 -0.010  -0.066   0.046    -0.063     0.033   -0.063    0.042    False      False     False
+25  Surabaya    10  Pranata Mangsa (phase mode)  396  0.023  -0.021   0.068    -0.031     0.069   -0.041    0.084    False      False     False
+26  Surabaya    10     Logistic (with calendar)  396  0.052   0.007   0.104    -0.002     0.101   -0.006    0.118     True      False     False
+27  Surabaya    10     LightGBM (with calendar)  396  0.046   0.001   0.093    -0.003     0.095   -0.024    0.096     True      False     False
+28  Surabaya    10      Logistic (weather only)  396  0.033  -0.018   0.081    -0.026     0.089   -0.031    0.096    False      False     False
+29  Surabaya    10      LightGBM (weather only)  396  0.013  -0.040   0.069    -0.045     0.061   -0.052    0.060    False      False     False
+30  Surabaya    20                  Persistence  396 -0.082  -0.141  -0.020    -0.143    -0.029   -0.140   -0.033    False      False     False
+31  Surabaya    20  Pranata Mangsa (phase mode)  396  0.023  -0.019   0.065    -0.025     0.070   -0.047    0.082    False      False     False
+32  Surabaya    20     Logistic (with calendar)  396  0.030  -0.015   0.079    -0.017     0.077   -0.026    0.084    False      False     False
+33  Surabaya    20     LightGBM (with calendar)  396  0.007  -0.038   0.056    -0.043     0.048   -0.057    0.051    False      False     False
+34  Surabaya    20      Logistic (weather only)  396  0.010  -0.039   0.060    -0.051     0.060   -0.048    0.068    False      False     False
+35  Surabaya    20      LightGBM (weather only)  396 -0.011  -0.061   0.042    -0.064     0.035   -0.080    0.044    False      False     False
+36  Surabaya    30                  Persistence  396 -0.102  -0.165  -0.036    -0.168    -0.046   -0.170   -0.044    False      False     False
+37  Surabaya    30  Pranata Mangsa (phase mode)  396  0.021  -0.025   0.063    -0.032     0.069   -0.042    0.078    False      False     False
+38  Surabaya    30     Logistic (with calendar)  396  0.031  -0.015   0.076    -0.020     0.081   -0.031    0.089    False      False     False
+39  Surabaya    30     LightGBM (with calendar)  396  0.024  -0.022   0.072    -0.026     0.071   -0.046    0.084    False      False     False
+40  Surabaya    30      Logistic (weather only)  396  0.004  -0.046   0.053    -0.057     0.062   -0.059    0.059    False      False     False
+41  Surabaya    30      LightGBM (weather only)  396 -0.016  -0.068   0.037    -0.083     0.040   -0.091    0.049    False      False     False
+42  Surabaya    60                  Persistence  396 -0.194  -0.262  -0.123    -0.257    -0.129   -0.274   -0.124    False      False     False
+43  Surabaya    60  Pranata Mangsa (phase mode)  396  0.021  -0.025   0.065    -0.029     0.065   -0.042    0.079    False      False     False
+44  Surabaya    60     Logistic (with calendar)  396  0.018  -0.026   0.059    -0.031     0.058   -0.031    0.058    False      False     False
+45  Surabaya    60     LightGBM (with calendar)  396  0.007  -0.035   0.049    -0.043     0.048   -0.032    0.043    False      False     False
+46  Surabaya    60      Logistic (weather only)  396 -0.065  -0.116  -0.016    -0.114    -0.021   -0.109   -0.019    False      False     False
+47  Surabaya    60      LightGBM (weather only)  396 -0.061  -0.115  -0.008    -0.121    -0.009   -0.110   -0.007    False      False     False

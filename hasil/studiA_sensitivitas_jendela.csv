@@ -1,0 +1,181 @@
+site,var,L,method,window,skill
+Kalisat,suhu,1,rolling bias,7,0.4372250946763424
+Kalisat,suhu,1,rolling bias,14,0.46361027357737083
+Kalisat,suhu,1,rolling bias,30,0.46298228249917506
+Kalisat,suhu,1,rolling bias,60,0.45084976236970453
+Kalisat,suhu,1,rolling bias,90,0.44362336415542414
+Kalisat,suhu,1,Ridge,60,0.22644657482450747
+Kalisat,suhu,1,Ridge,120,0.31864886981882934
+Kalisat,suhu,1,Ridge,240,0.4430885461835903
+Kalisat,suhu,1,Ridge,365,0.482097958652249
+Kalisat,suhu,1,Ridge,540,0.4894736758276734
+Kalisat,suhu,3,rolling bias,7,0.2690037970871858
+Kalisat,suhu,3,rolling bias,14,0.3005464280205936
+Kalisat,suhu,3,rolling bias,30,0.31461235926173436
+Kalisat,suhu,3,rolling bias,60,0.3029417939094817
+Kalisat,suhu,3,rolling bias,90,0.2985184994773187
+Kalisat,suhu,3,Ridge,60,-0.13699504876671043
+Kalisat,suhu,3,Ridge,120,-0.0570604833762034
+Kalisat,suhu,3,Ridge,240,0.21914493174273053
+Kalisat,suhu,3,Ridge,365,0.30130740913821696
+Kalisat,suhu,3,Ridge,540,0.3169636360502014
+Kalisat,suhu,7,rolling bias,7,0.13219601223863708
+Kalisat,suhu,7,rolling bias,14,0.19937050314581173
+Kalisat,suhu,7,rolling bias,30,0.2365395349563415
+Kalisat,suhu,7,rolling bias,60,0.2192235480559429
+Kalisat,suhu,7,rolling bias,90,0.21034215357552266
+Kalisat,suhu,7,Ridge,60,-0.1099422916081445
+Kalisat,suhu,7,Ridge,120,-0.04144126701275175
+Kalisat,suhu,7,Ridge,240,0.043340906548120284
+Kalisat,suhu,7,Ridge,365,0.19931545971013676
+Kalisat,suhu,7,Ridge,540,0.22858932432119272
+Kalisat,rh,1,rolling bias,7,0.3792788199572851
+Kalisat,rh,1,rolling bias,14,0.42589984530737934
+Kalisat,rh,1,rolling bias,30,0.41939531797269436
+Kalisat,rh,1,rolling bias,60,0.4128434261479704
+Kalisat,rh,1,rolling bias,90,0.4070526092121106
+Kalisat,rh,1,Ridge,60,0.23628879374836365
+Kalisat,rh,1,Ridge,120,0.3593464661159883
+Kalisat,rh,1,Ridge,240,0.427440583975329
+Kalisat,rh,1,Ridge,365,0.445464789591139
+Kalisat,rh,1,Ridge,540,0.45774519686851334
+Kalisat,rh,3,rolling bias,7,0.31073486301062936
+Kalisat,rh,3,rolling bias,14,0.3384570211621868
+Kalisat,rh,3,rolling bias,30,0.3498357353936572
+Kalisat,rh,3,rolling bias,60,0.34895360419108623
+Kalisat,rh,3,rolling bias,90,0.3482793030264675
+Kalisat,rh,3,Ridge,60,0.14717074251758955
+Kalisat,rh,3,Ridge,120,0.20012259276534916
+Kalisat,rh,3,Ridge,240,0.31288308693031286
+Kalisat,rh,3,Ridge,365,0.3647557739313112
+Kalisat,rh,3,Ridge,540,0.36907993250409565
+Kalisat,rh,7,rolling bias,7,0.24051360142496203
+Kalisat,rh,7,rolling bias,14,0.24546316605549068
+Kalisat,rh,7,rolling bias,30,0.29048074670972324
+Kalisat,rh,7,rolling bias,60,0.28974220973054854
+Kalisat,rh,7,rolling bias,90,0.2946513377884755
+Kalisat,rh,7,Ridge,60,0.018711070518932393
+Kalisat,rh,7,Ridge,120,0.09399232756886233
+Kalisat,rh,7,Ridge,240,0.25700956097516714
+Kalisat,rh,7,Ridge,365,0.3404466193987631
+Kalisat,rh,7,Ridge,540,0.34272154375756025
+Kalisat,angin,1,rolling bias,7,0.24603650934907795
+Kalisat,angin,1,rolling bias,14,0.26027299721395214
+Kalisat,angin,1,rolling bias,30,0.24709132133437284
+Kalisat,angin,1,rolling bias,60,0.23063362468410187
+Kalisat,angin,1,rolling bias,90,0.21297959624808283
+Kalisat,angin,1,Ridge,60,0.13081562497009958
+Kalisat,angin,1,Ridge,120,0.26099833895005287
+Kalisat,angin,1,Ridge,240,0.325495866331578
+Kalisat,angin,1,Ridge,365,0.35885122600227004
+Kalisat,angin,1,Ridge,540,0.37969003157969583
+Kalisat,angin,3,rolling bias,7,0.18836975956644375
+Kalisat,angin,3,rolling bias,14,0.24716728065749038
+Kalisat,angin,3,rolling bias,30,0.24694505130526112
+Kalisat,angin,3,rolling bias,60,0.23299570319855345
+Kalisat,angin,3,rolling bias,90,0.2161699104417114
+Kalisat,angin,3,Ridge,60,-0.07912310152486768
+Kalisat,angin,3,Ridge,120,-0.028778524970818786
+Kalisat,angin,3,Ridge,240,0.17563608292522703
+Kalisat,angin,3,Ridge,365,0.20342240535896838
+Kalisat,angin,3,Ridge,540,0.24496890340436495
+Kalisat,angin,7,rolling bias,7,0.2194818603152887
+Kalisat,angin,7,rolling bias,14,0.2393419059563172
+Kalisat,angin,7,rolling bias,30,0.24931233821896226
+Kalisat,angin,7,rolling bias,60,0.24409422676581494
+Kalisat,angin,7,rolling bias,90,0.23508760632330739
+Kalisat,angin,7,Ridge,60,-0.10564935835032907
+Kalisat,angin,7,Ridge,120,0.07831294372592212
+Kalisat,angin,7,Ridge,240,0.15264526853945592
+Kalisat,angin,7,Ridge,365,0.20911679403816918
+Kalisat,angin,7,Ridge,540,0.2311177625409333
+Surabaya,suhu,1,rolling bias,7,0.30589247437262135
+Surabaya,suhu,1,rolling bias,14,0.29794251884687717
+Surabaya,suhu,1,rolling bias,30,0.2959565853492566
+Surabaya,suhu,1,rolling bias,60,0.23518594127453962
+Surabaya,suhu,1,rolling bias,90,0.1524126433261883
+Surabaya,suhu,1,Ridge,60,0.0946065142551773
+Surabaya,suhu,1,Ridge,120,0.2402452928336708
+Surabaya,suhu,1,Ridge,240,0.33763381603114384
+Surabaya,suhu,1,Ridge,365,0.3914382190289579
+Surabaya,suhu,1,Ridge,540,0.4037722013937457
+Surabaya,suhu,3,rolling bias,7,0.18882422478857852
+Surabaya,suhu,3,rolling bias,14,0.2223273811517974
+Surabaya,suhu,3,rolling bias,30,0.2282711871977845
+Surabaya,suhu,3,rolling bias,60,0.1709230906674708
+Surabaya,suhu,3,rolling bias,90,0.10192599044821882
+Surabaya,suhu,3,Ridge,60,-0.2562436746555028
+Surabaya,suhu,3,Ridge,120,0.17055848174962007
+Surabaya,suhu,3,Ridge,240,0.23409676952495806
+Surabaya,suhu,3,Ridge,365,0.31644365388826945
+Surabaya,suhu,3,Ridge,540,0.30833473250814725
+Surabaya,suhu,7,rolling bias,7,0.056930486345034614
+Surabaya,suhu,7,rolling bias,14,0.14307687107024547
+Surabaya,suhu,7,rolling bias,30,0.1443932518582447
+Surabaya,suhu,7,rolling bias,60,0.11914850180488668
+Surabaya,suhu,7,rolling bias,90,0.08159062015719687
+Surabaya,suhu,7,Ridge,60,-0.2271648461966389
+Surabaya,suhu,7,Ridge,120,-0.13476020935563282
+Surabaya,suhu,7,Ridge,240,0.01640991687713489
+Surabaya,suhu,7,Ridge,365,0.20504428096861915
+Surabaya,suhu,7,Ridge,540,0.23121177828552053
+Surabaya,rh,1,rolling bias,7,0.1636545621972213
+Surabaya,rh,1,rolling bias,14,0.15981889713334096
+Surabaya,rh,1,rolling bias,30,0.15871777757732553
+Surabaya,rh,1,rolling bias,60,0.11707656223721008
+Surabaya,rh,1,rolling bias,90,0.06384099917122243
+Surabaya,rh,1,Ridge,60,0.05465903468485356
+Surabaya,rh,1,Ridge,120,0.0973455397007359
+Surabaya,rh,1,Ridge,240,0.17695266199619408
+Surabaya,rh,1,Ridge,365,0.20599430425032517
+Surabaya,rh,1,Ridge,540,0.22076453582896205
+Surabaya,rh,3,rolling bias,7,0.04807838652752139
+Surabaya,rh,3,rolling bias,14,0.10146110907722272
+Surabaya,rh,3,rolling bias,30,0.12455200744814632
+Surabaya,rh,3,rolling bias,60,0.11558831716049056
+Surabaya,rh,3,rolling bias,90,0.09136200613640255
+Surabaya,rh,3,Ridge,60,-0.16820379794269424
+Surabaya,rh,3,Ridge,120,-0.00800303052535467
+Surabaya,rh,3,Ridge,240,0.05230504871471042
+Surabaya,rh,3,Ridge,365,0.11157594752359179
+Surabaya,rh,3,Ridge,540,0.12518853521194206
+Surabaya,rh,7,rolling bias,7,-0.02259825722240305
+Surabaya,rh,7,rolling bias,14,0.04479878511769175
+Surabaya,rh,7,rolling bias,30,0.0649486512812254
+Surabaya,rh,7,rolling bias,60,0.09280504360231023
+Surabaya,rh,7,rolling bias,90,0.07233432783926341
+Surabaya,rh,7,Ridge,60,-0.4692170699877587
+Surabaya,rh,7,Ridge,120,-0.3734633379481247
+Surabaya,rh,7,Ridge,240,0.02098529365095292
+Surabaya,rh,7,Ridge,365,0.08526043504631065
+Surabaya,rh,7,Ridge,540,0.07942119197331332
+Surabaya,angin,1,rolling bias,7,0.28396723725205564
+Surabaya,angin,1,rolling bias,14,0.3169535562975987
+Surabaya,angin,1,rolling bias,30,0.30460295635519485
+Surabaya,angin,1,rolling bias,60,0.29480905164865046
+Surabaya,angin,1,rolling bias,90,0.286310368855055
+Surabaya,angin,1,Ridge,60,-0.05976529657254215
+Surabaya,angin,1,Ridge,120,0.12551273336321744
+Surabaya,angin,1,Ridge,240,0.2518587484762591
+Surabaya,angin,1,Ridge,365,0.34163398833874214
+Surabaya,angin,1,Ridge,540,0.34494079953821044
+Surabaya,angin,3,rolling bias,7,0.22506150534973834
+Surabaya,angin,3,rolling bias,14,0.29189373274101715
+Surabaya,angin,3,rolling bias,30,0.270741338654944
+Surabaya,angin,3,rolling bias,60,0.2643908622672384
+Surabaya,angin,3,rolling bias,90,0.2673598985044997
+Surabaya,angin,3,Ridge,60,-0.2723796511340033
+Surabaya,angin,3,Ridge,120,-0.05421764850123201
+Surabaya,angin,3,Ridge,240,0.13131104841293584
+Surabaya,angin,3,Ridge,365,0.2334279230622769
+Surabaya,angin,3,Ridge,540,0.262635456712915
+Surabaya,angin,7,rolling bias,7,0.198416789246737
+Surabaya,angin,7,rolling bias,14,0.23908708818749436
+Surabaya,angin,7,rolling bias,30,0.24562893094523985
+Surabaya,angin,7,rolling bias,60,0.2651239841605483
+Surabaya,angin,7,rolling bias,90,0.26794238198765197
+Surabaya,angin,7,Ridge,60,-0.15097299772295436
+Surabaya,angin,7,Ridge,120,-0.04018135884078755
+Surabaya,angin,7,Ridge,240,0.12211110996388752
+Surabaya,angin,7,Ridge,365,0.1866772982707865
+Surabaya,angin,7,Ridge,540,0.23793558698717832

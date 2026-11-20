@@ -1,0 +1,9 @@
+family,cells,better,sig_raw,sig_raw_better,sig_raw_worse,sig_holm_better,sig_holm_worse
+Ridge vs rolling bias (n=487),18,13,8,8,0,3,0
+Ridge vs raw NWP (n=487),18,18,17,17,0,17,0
+Rolling bias vs raw NWP (n=487),18,18,17,17,0,17,0
+LightGBM vs rolling bias (n=487),18,11,1,1,0,1,0
+BiGRU vs Ridge,18,8,4,0,4,0,2
+BiGRU vs rolling bias,18,14,5,5,0,1,0
+N-BEATS-64 vs Ridge,18,0,18,0,18,0,18
+N-BEATS-16 vs Ridge,18,6,4,0,4,0,3
